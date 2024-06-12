@@ -57,4 +57,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sbrb&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sbrb&theme=github_dark)
 
-### ✍️ Shayan Biswas Quote `"If Not Now Never."`
+### ✍️ Shayan Biswas Quote `"Now Or Never."`
